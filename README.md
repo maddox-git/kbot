@@ -8,3 +8,7 @@ go build
 
 Run:
 ./kbot start
+
+
+Link:
+https://t.me/myoldnickname_bot
